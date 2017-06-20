@@ -1,2 +1,2 @@
-# Basic-Portfolio
-Jakie W. Rice Homework 01-html-git-css "That Portfolio Though".
+# jakierice.github.io
+Personal website.
